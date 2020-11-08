@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ass_Two</string>
+    <string name="go_to_second_activity">Go To Second Activity</string>
+    <string name="bmi">BMI</string>
+    <string name="calculate_the_bmi">Calculate the BMI</string>
+    <string name="save">save</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="enter_your_information">Enter your information</string>
+    <string-array name="gender">
+        <item>male</item>
+        <item>female</item>
+    </string-array>
+</resources>
